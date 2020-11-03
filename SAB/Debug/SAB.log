@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Projekty\SAB\SAB\Main.cpp(140,86): warning C4244: "argument": konwersja z "const int" do "float", możliwa utrata danych
+C:\Projekty\SAB\SAB\Main.cpp(140,73): warning C4244: "argument": konwersja z "const int" do "float", możliwa utrata danych
+C:\Projekty\SAB\SAB\Main.cpp(155,87): warning C4244: "argument": konwersja z "const int" do "float", możliwa utrata danych
+C:\Projekty\SAB\SAB\Main.cpp(155,74): warning C4244: "argument": konwersja z "const int" do "float", możliwa utrata danych
+C:\Projekty\SAB\SAB\Main.cpp(157,43): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Projekty\SAB\SAB\Main.cpp(157,28): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Projekty\SAB\SAB\Main.cpp(66): warning C4715: "getBaseMemoryAddress”: niewszystkie ścieżki kodu zwracają wartość
+  SAB.vcxproj -> C:\Projekty\SAB\Debug\SAB.exe
